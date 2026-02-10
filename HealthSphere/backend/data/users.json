@@ -1,0 +1,128 @@
+[
+  {
+    "_id": "mgesjsr6bje2ambr10f",
+    "name": "las",
+    "email": "abc@gmail.com",
+    "passwordHash": "$2a$10$k4Fl314wGHS5FcQzpcmFLOrZdLeoi.Kujr2Nui.5Hd.iSb3AATWv6",
+    "avatar": "https://ui-avatars.com/api/?name=las&background=667eea&color=fff",
+    "preferences": {
+      "theme": "light",
+      "language": "en",
+      "notifications": {
+        "email": true,
+        "push": true,
+        "reminders": true
+      }
+    },
+    "createdAt": "2025-10-06T07:10:06.930Z",
+    "updatedAt": "2025-10-06T07:10:06.930Z"
+  },
+  {
+    "_id": "mgetemkob145kxxxljl",
+    "name": "Test User",
+    "email": "test@example.com",
+    "passwordHash": "$2a$10$2bBmDMI17K/H5Y.0jwB5yOtGYH9ik74aZuqZGOIFUSexVXo.j0tqW",
+    "avatar": "https://ui-avatars.com/api/?name=Test%20User&background=667eea&color=fff",
+    "preferences": {
+      "theme": "light",
+      "language": "en",
+      "notifications": {
+        "email": true,
+        "push": true,
+        "reminders": true
+      }
+    },
+    "createdAt": "2025-10-06T07:34:05.256Z",
+    "updatedAt": "2025-10-06T07:34:05.256Z"
+  },
+  {
+    "_id": "mgku9jl2jy10c23xzlo",
+    "name": "Demo User",
+    "email": "demo@healthsphere.com",
+    "passwordHash": "$2a$10$beoS4ixdp1Tp.PtBLhsmNufQP0siI0CcHHlIN6B.2UHwQ.y17um9i",
+    "avatar": "https://ui-avatars.com/api/?name=Demo%20User&background=667eea&color=fff",
+    "preferences": {
+      "theme": "light",
+      "language": "en",
+      "notifications": {
+        "email": true,
+        "push": true,
+        "reminders": true
+      }
+    },
+    "createdAt": "2025-10-10T12:44:44.775Z",
+    "updatedAt": "2025-10-10T12:44:44.775Z"
+  },
+  {
+    "_id": "mgku9xu4i3j9s4gm0g",
+    "name": "Test User 2",
+    "email": "test2@example.com",
+    "passwordHash": "$2a$10$vB1u/IgXNMw9VZGPVMfWpumQ0VhY5iqghUuoPXvIxhY2/ELQA9wV6",
+    "avatar": "https://ui-avatars.com/api/?name=Test%20User%202&background=667eea&color=fff",
+    "preferences": {
+      "theme": "light",
+      "language": "en",
+      "notifications": {
+        "email": true,
+        "push": true,
+        "reminders": true
+      }
+    },
+    "createdAt": "2025-10-10T12:45:03.244Z",
+    "updatedAt": "2025-10-10T12:45:03.244Z"
+  },
+  {
+    "_id": "mglu29iezvc5pnyb4sr",
+    "name": "Test User New",
+    "email": "testnew@example.com",
+    "passwordHash": "$2a$10$UbnrW5AUQ2RSjPVPzYsQgeqtUipvFebnKHwb3cWDUdg8yyyf/c9wS",
+    "avatar": "https://ui-avatars.com/api/?name=Test%20User%20New&background=667eea&color=fff",
+    "preferences": {
+      "theme": "light",
+      "language": "en",
+      "notifications": {
+        "email": true,
+        "push": true,
+        "reminders": true
+      }
+    },
+    "createdAt": "2025-10-11T05:26:51.302Z",
+    "updatedAt": "2025-10-11T05:26:51.302Z"
+  },
+  {
+    "_id": "mgludebgj0ufcd6p69f",
+    "name": "Test User 1760160930624",
+    "email": "test1760160930624@example.com",
+    "passwordHash": "$2a$10$hRBYlAkHeULcMQ0.lUXe7ebbUTEr/4nIDhHV5sl1ZBGEr73lOYjNm",
+    "avatar": "https://ui-avatars.com/api/?name=Test%20User%201760160930624&background=667eea&color=fff",
+    "preferences": {
+      "theme": "light",
+      "language": "en",
+      "notifications": {
+        "email": true,
+        "push": true,
+        "reminders": true
+      }
+    },
+    "createdAt": "2025-10-11T05:35:30.748Z",
+    "updatedAt": "2025-10-11T05:35:30.748Z"
+  },
+  {
+    "_id": "mk4ftvvabb0igrjx07k",
+    "name": "jonny",
+    "email": "abc12@gmail.com",
+    "passwordHash": "$2a$10$v5lgWbZmEfmdCRgrsR5FdukJfVbBlIPBeCYuuKc/7.Ee1xW5LvXMy",
+    "avatar": "https://ui-avatars.com/api/?name=jonny&background=667eea&color=fff",
+    "preferences": {
+      "theme": "light",
+      "language": "en",
+      "notifications": {
+        "email": true,
+        "push": true,
+        "reminders": true
+      }
+    },
+    "createdAt": "2026-01-07T19:55:10.102Z",
+    "updatedAt": "2026-01-07T19:55:10.102Z"
+  }
+]

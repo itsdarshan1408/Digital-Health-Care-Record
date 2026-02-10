@@ -1,0 +1,70 @@
+[
+  {
+    "_id": "mgetemkp46c66hbzfkf",
+    "userId": "mgetemkob145kxxxljl",
+    "plan": "free",
+    "status": "active",
+    "startDate": "2025-10-06T07:34:05.257Z",
+    "expiryDate": null,
+    "amount": 0,
+    "createdAt": "2025-10-06T07:34:05.257Z",
+    "updatedAt": "2025-10-06T07:34:05.257Z"
+  },
+  {
+    "_id": "mgev3ehp9xsndmlqqzn",
+    "userId": "mgesjsr6bje2ambr10f",
+    "plan": "standard",
+    "status": "active",
+    "startDate": "2025-10-13T07:27:50.092Z",
+    "expiryDate": "2025-11-13T07:27:50.092Z",
+    "paymentMethod": "free",
+    "lastPayment": "2025-10-13T07:27:50.092Z",
+    "amount": 9.99,
+    "createdAt": "2025-10-06T08:21:20.797Z",
+    "updatedAt": "2025-10-13T07:27:50.092Z"
+  },
+  {
+    "_id": "mgku9xu91py2mjj1gba",
+    "userId": "mgku9xu4i3j9s4gm0g",
+    "plan": "free",
+    "status": "active",
+    "startDate": "2025-10-10T12:45:03.249Z",
+    "expiryDate": null,
+    "amount": 0,
+    "createdAt": "2025-10-10T12:45:03.249Z",
+    "updatedAt": "2025-10-10T12:45:03.249Z"
+  },
+  {
+    "_id": "mglu29iesxsax5n99q",
+    "userId": "mglu29iezvc5pnyb4sr",
+    "plan": "free",
+    "status": "active",
+    "startDate": "2025-10-11T05:26:51.302Z",
+    "expiryDate": null,
+    "amount": 0,
+    "createdAt": "2025-10-11T05:26:51.302Z",
+    "updatedAt": "2025-10-11T05:26:51.302Z"
+  },
+  {
+    "_id": "mgludebiv79utjjikhg",
+    "userId": "mgludebgj0ufcd6p69f",
+    "plan": "free",
+    "status": "active",
+    "startDate": "2025-10-11T05:35:30.750Z",
+    "expiryDate": null,
+    "amount": 0,
+    "createdAt": "2025-10-11T05:35:30.750Z",
+    "updatedAt": "2025-10-11T05:35:30.750Z"
+  },
+  {
+    "_id": "mk4ftvvrgamys5brxf",
+    "userId": "mk4ftvvabb0igrjx07k",
+    "plan": "free",
+    "status": "active",
+    "startDate": "2026-01-07T19:55:10.103Z",
+    "expiryDate": null,
+    "amount": 0,
+    "createdAt": "2026-01-07T19:55:10.119Z",
+    "updatedAt": "2026-01-07T19:55:10.119Z"
+  }
+]

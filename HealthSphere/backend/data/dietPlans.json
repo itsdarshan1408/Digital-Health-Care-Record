@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "mgluniskg94nebifdc",
+    "userId": "mgesjsr6bje2ambr10f",
+    "date": "2025-10-11",
+    "goal": "maintenance",
+    "waterIntake": "5",
+    "meals": [
+      {
+        "name": "bread",
+        "type": "breakfast",
+        "calories": "5",
+        "protein": "3",
+        "carbs": "6",
+        "fats": "3",
+        "macros": {
+          "protein": "3",
+          "carbs": "6",
+          "fats": "3"
+        }
+      }
+    ],
+    "totalCalories": "05",
+    "createdAt": "2025-10-11T05:43:23.108Z",
+    "updatedAt": "2025-10-11T05:43:23.108Z"
+  }
+]

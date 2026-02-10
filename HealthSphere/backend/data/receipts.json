@@ -1,0 +1,485 @@
+[
+  {
+    "_id": "RCP-251010-3452",
+    "receiptNumber": "RCP-251010-4021",
+    "receiptToken": "DUVSUAW1L44H",
+    "paymentId": "PAY_MGKTX01V_Q6Q5T",
+    "userId": "mgesjsr6bje2ambr10f",
+    "customerInfo": {
+      "userId": "mgesjsr6bje2ambr10f",
+      "name": "las",
+      "email": "abc@gmail.com"
+    },
+    "subscriptionDetails": {
+      "planId": "standard",
+      "planName": "Standard Plan",
+      "duration": "monthly",
+      "startDate": "2025-10-10T12:35:02.658Z",
+      "expiryDate": "2025-11-10T12:35:02.658Z",
+      "features": [
+        "Up to 50 health records",
+        "Unlimited fitness tracking",
+        "Unlimited diet plans",
+        "25 AI coaching messages/month",
+        "Full community access",
+        "Email reminders",
+        "Custom fitness goals",
+        "Standard support"
+      ]
+    },
+    "paymentInfo": {
+      "method": "qr_code",
+      "methodDisplay": "QR Code Payment",
+      "amount": 9.99,
+      "currency": "INR",
+      "processingFee": 0,
+      "totalAmount": 9.99,
+      "transactionId": "TXN_MGKTX01V_LYRSFQSX"
+    },
+    "status": "issued",
+    "downloadCount": 0,
+    "emailSent": false,
+    "createdAt": "2025-10-10T12:35:02.658Z",
+    "updatedAt": "2025-10-10T12:35:02.658Z"
+  },
+  {
+    "_id": "RCP-251011-5700",
+    "receiptNumber": "RCP-251011-3221",
+    "receiptToken": "9V6ELYREXHEX",
+    "paymentId": "PAY_MGLUI4L6_GMRXI",
+    "userId": "mgesjsr6bje2ambr10f",
+    "customerInfo": {
+      "userId": "mgesjsr6bje2ambr10f",
+      "name": "las",
+      "email": "abc@gmail.com"
+    },
+    "subscriptionDetails": {
+      "planId": "standard",
+      "planName": "Standard Plan",
+      "duration": "monthly",
+      "startDate": "2025-10-11T05:39:14.547Z",
+      "expiryDate": "2025-11-11T05:39:14.547Z",
+      "features": [
+        "Up to 50 health records",
+        "Unlimited fitness tracking",
+        "Unlimited diet plans",
+        "25 AI coaching messages/month",
+        "Full community access",
+        "Email reminders",
+        "Custom fitness goals",
+        "Standard support"
+      ]
+    },
+    "paymentInfo": {
+      "method": "qr_code",
+      "methodDisplay": "QR Code Payment",
+      "amount": 9.99,
+      "currency": "INR",
+      "processingFee": 0,
+      "totalAmount": 9.99,
+      "transactionId": "TXN_MGLUI4L6_DDXD6GBB"
+    },
+    "status": "issued",
+    "downloadCount": 0,
+    "emailSent": false,
+    "createdAt": "2025-10-11T05:39:14.548Z",
+    "updatedAt": "2025-10-11T05:39:14.548Z"
+  },
+  {
+    "_id": "RCP-251011-5932",
+    "receiptNumber": "RCP-251011-6272",
+    "receiptToken": "XD7K792NI7ZO",
+    "paymentId": "PAY_MGLUK6TR_DOGJT",
+    "userId": "mgesjsr6bje2ambr10f",
+    "customerInfo": {
+      "userId": "mgesjsr6bje2ambr10f",
+      "name": "las",
+      "email": "abc@gmail.com"
+    },
+    "subscriptionDetails": {
+      "planId": "standard",
+      "planName": "Standard Plan",
+      "duration": "monthly",
+      "startDate": "2025-10-11T05:40:47.633Z",
+      "expiryDate": "2025-11-11T05:40:47.633Z",
+      "features": [
+        "Up to 50 health records",
+        "Unlimited fitness tracking",
+        "Unlimited diet plans",
+        "25 AI coaching messages/month",
+        "Full community access",
+        "Email reminders",
+        "Custom fitness goals",
+        "Standard support"
+      ]
+    },
+    "paymentInfo": {
+      "method": "card",
+      "methodDisplay": "Card ending in 6655",
+      "amount": 9.99,
+      "currency": "INR",
+      "processingFee": 0.59,
+      "totalAmount": 10.58,
+      "transactionId": "TXN_MGLUK6TR_CFHWH6D1",
+      "cardType": "Unknown",
+      "cardLast4": "6655"
+    },
+    "status": "issued",
+    "downloadCount": 0,
+    "emailSent": false,
+    "createdAt": "2025-10-11T05:40:47.633Z",
+    "updatedAt": "2025-10-11T05:40:47.633Z"
+  },
+  {
+    "_id": "RCP-251011-5862",
+    "receiptNumber": "RCP-251011-9723",
+    "receiptToken": "W615OWHZJJDO",
+    "paymentId": "PAY_MGLUPPC0_MYRVT",
+    "userId": "mgesjsr6bje2ambr10f",
+    "customerInfo": {
+      "userId": "mgesjsr6bje2ambr10f",
+      "name": "las",
+      "email": "abc@gmail.com"
+    },
+    "subscriptionDetails": {
+      "planId": "premium",
+      "planName": "Premium Plan",
+      "duration": "monthly",
+      "startDate": "2025-10-11T05:45:04.900Z",
+      "expiryDate": "2025-11-11T05:45:04.900Z",
+      "features": [
+        "Unlimited health records",
+        "Unlimited fitness tracking",
+        "Unlimited diet plans",
+        "100 AI coaching messages/month",
+        "Full community access",
+        "Advanced analytics & insights",
+        "Data export capabilities",
+        "Priority customer support",
+        "Custom health goals",
+        "Telemedicine consultations",
+        "Email & SMS reminders"
+      ]
+    },
+    "paymentInfo": {
+      "method": "card",
+      "methodDisplay": "Card ending in 7894",
+      "amount": 19.99,
+      "currency": "INR",
+      "processingFee": 0.88,
+      "totalAmount": 20.869999999999997,
+      "transactionId": "TXN_MGLUPPC0_EWA7BAZL",
+      "cardType": "Unknown",
+      "cardLast4": "7894"
+    },
+    "status": "issued",
+    "downloadCount": 0,
+    "emailSent": false,
+    "createdAt": "2025-10-11T05:45:04.902Z",
+    "updatedAt": "2025-10-11T05:45:04.902Z"
+  },
+  {
+    "_id": "RCP-251011-6561",
+    "receiptNumber": "RCP-251011-7663",
+    "receiptToken": "HDA6C6NF9M7V",
+    "paymentId": "PAY_MGLVOZPD_VOB66",
+    "userId": "mgesjsr6bje2ambr10f",
+    "customerInfo": {
+      "userId": "mgesjsr6bje2ambr10f",
+      "name": "las",
+      "email": "abc@gmail.com"
+    },
+    "subscriptionDetails": {
+      "planId": "standard",
+      "planName": "Standard Plan",
+      "duration": "monthly",
+      "startDate": "2025-10-11T06:12:34.435Z",
+      "expiryDate": "2025-11-11T06:12:34.435Z",
+      "features": [
+        "Up to 50 health records",
+        "Unlimited fitness tracking",
+        "Unlimited diet plans",
+        "25 AI coaching messages/month",
+        "Full community access",
+        "Email reminders",
+        "Custom fitness goals",
+        "Standard support"
+      ]
+    },
+    "paymentInfo": {
+      "method": "qr_code",
+      "methodDisplay": "QR Code Payment",
+      "amount": 9.99,
+      "currency": "USD",
+      "processingFee": 0,
+      "totalAmount": 9.99,
+      "transactionId": "TXN_MGLVOZPD_9HEIR6RL"
+    },
+    "status": "issued",
+    "downloadCount": 0,
+    "emailSent": false,
+    "createdAt": "2025-10-11T06:12:34.435Z",
+    "updatedAt": "2025-10-11T06:12:34.435Z"
+  },
+  {
+    "_id": "RCP-251011-1501",
+    "receiptNumber": "RCP-251011-8013",
+    "receiptToken": "CJFI8WO1980H",
+    "paymentId": "PAY_MGMJP7T0_C6SY5",
+    "userId": "mgesjsr6bje2ambr10f",
+    "customerInfo": {
+      "userId": "mgesjsr6bje2ambr10f",
+      "name": "las",
+      "email": "abc@gmail.com"
+    },
+    "subscriptionDetails": {
+      "planId": "standard",
+      "planName": "Standard Plan",
+      "duration": "monthly",
+      "startDate": "2025-10-11T17:24:35.652Z",
+      "expiryDate": "2025-11-11T17:24:35.652Z",
+      "features": [
+        "Up to 50 health records",
+        "Unlimited fitness tracking",
+        "Unlimited diet plans",
+        "25 AI coaching messages/month",
+        "Full community access",
+        "Email reminders",
+        "Custom fitness goals",
+        "Standard support"
+      ]
+    },
+    "paymentInfo": {
+      "method": "qr_code",
+      "methodDisplay": "QR Code Payment",
+      "amount": 9.99,
+      "currency": "INR",
+      "processingFee": 0,
+      "totalAmount": 9.99,
+      "transactionId": "TXN_MGMJP7T0_E2PQP74V"
+    },
+    "status": "issued",
+    "downloadCount": 0,
+    "emailSent": false,
+    "createdAt": "2025-10-11T17:24:35.653Z",
+    "updatedAt": "2025-10-11T17:24:35.653Z"
+  },
+  {
+    "_id": "RCP-251012-5933",
+    "receiptNumber": "RCP-251012-0792",
+    "receiptToken": "VY181BW8XK4U",
+    "paymentId": "PAY_MGNXRZEG_5OHX5",
+    "userId": "mgesjsr6bje2ambr10f",
+    "customerInfo": {
+      "userId": "mgesjsr6bje2ambr10f",
+      "name": "las",
+      "email": "abc@gmail.com"
+    },
+    "subscriptionDetails": {
+      "planId": "premium",
+      "planName": "Premium Plan",
+      "duration": "monthly",
+      "startDate": "2025-10-12T16:46:25.621Z",
+      "expiryDate": "2025-11-12T16:46:25.621Z",
+      "features": [
+        "Unlimited health records",
+        "Unlimited fitness tracking",
+        "Unlimited diet plans",
+        "100 AI coaching messages/month",
+        "Full community access",
+        "Advanced analytics & insights",
+        "Data export capabilities",
+        "Priority customer support",
+        "Custom health goals",
+        "Telemedicine consultations",
+        "Email & SMS reminders"
+      ]
+    },
+    "paymentInfo": {
+      "method": "qr_code",
+      "methodDisplay": "QR Code Payment",
+      "amount": 19.99,
+      "currency": "INR",
+      "processingFee": 0,
+      "totalAmount": 19.99,
+      "transactionId": "TXN_MGNXRZEG_10HEYJ7A"
+    },
+    "status": "issued",
+    "downloadCount": 0,
+    "emailSent": false,
+    "createdAt": "2025-10-12T16:46:25.622Z",
+    "updatedAt": "2025-10-12T16:46:25.622Z"
+  },
+  {
+    "_id": "RCP-251013-6221",
+    "receiptNumber": "RCP-251013-4189",
+    "receiptToken": "PSM91D7EW8W4",
+    "paymentId": "PAY_MGOP09Y5_QMOLG",
+    "userId": "mgesjsr6bje2ambr10f",
+    "customerInfo": {
+      "userId": "mgesjsr6bje2ambr10f",
+      "name": "las",
+      "email": "abc@gmail.com"
+    },
+    "subscriptionDetails": {
+      "planId": "standard",
+      "planName": "Standard Plan",
+      "duration": "monthly",
+      "startDate": "2025-10-13T05:28:42.139Z",
+      "expiryDate": "2025-11-13T05:28:42.139Z",
+      "features": [
+        "Up to 50 health records",
+        "Unlimited fitness tracking",
+        "Unlimited diet plans",
+        "25 AI coaching messages/month",
+        "Full community access",
+        "Email reminders",
+        "Custom fitness goals",
+        "Standard support"
+      ]
+    },
+    "paymentInfo": {
+      "method": "qr_code",
+      "methodDisplay": "QR Code Payment",
+      "amount": 9.99,
+      "currency": "INR",
+      "processingFee": 0,
+      "totalAmount": 9.99,
+      "transactionId": "TXN_MGOP09Y5_A4EX8M1X"
+    },
+    "status": "issued",
+    "downloadCount": 0,
+    "emailSent": false,
+    "createdAt": "2025-10-13T05:28:42.141Z",
+    "updatedAt": "2025-10-13T05:28:42.141Z"
+  },
+  {
+    "_id": "RCP-251013-6746",
+    "receiptNumber": "RCP-251013-4674",
+    "receiptToken": "IM61ED0TYFW6",
+    "paymentId": "PAY_MGOSSKHO_PJRLI",
+    "userId": "mgesjsr6bje2ambr10f",
+    "customerInfo": {
+      "userId": "mgesjsr6bje2ambr10f",
+      "name": "las",
+      "email": "abc@gmail.com"
+    },
+    "subscriptionDetails": {
+      "planId": "standard",
+      "planName": "Standard Plan",
+      "duration": "monthly",
+      "startDate": "2025-10-13T07:14:40.998Z",
+      "expiryDate": "2025-11-13T07:14:40.998Z",
+      "features": [
+        "Up to 50 health records",
+        "Unlimited fitness tracking",
+        "Unlimited diet plans",
+        "25 AI coaching messages/month",
+        "Full community access",
+        "Email reminders",
+        "Custom fitness goals",
+        "Standard support"
+      ]
+    },
+    "paymentInfo": {
+      "method": "qr_code",
+      "methodDisplay": "QR Code Payment",
+      "amount": 9.99,
+      "currency": "INR",
+      "processingFee": 0,
+      "totalAmount": 9.99,
+      "transactionId": "TXN_MGOSSKHO_0DRO4IYU"
+    },
+    "status": "issued",
+    "downloadCount": 0,
+    "emailSent": false,
+    "createdAt": "2025-10-13T07:14:41.003Z",
+    "updatedAt": "2025-10-13T07:14:41.003Z"
+  },
+  {
+    "_id": "RCP-251013-0944",
+    "receiptNumber": "RCP-251013-4620",
+    "receiptToken": "J38QSZFWYP08",
+    "paymentId": "PAY_MGOT9FWK_RE3M3",
+    "userId": "mgesjsr6bje2ambr10f",
+    "customerInfo": {
+      "userId": "mgesjsr6bje2ambr10f",
+      "name": "las",
+      "email": "abc@gmail.com"
+    },
+    "subscriptionDetails": {
+      "planId": "standard",
+      "planName": "Standard Plan",
+      "duration": "monthly",
+      "startDate": "2025-10-13T07:27:48.293Z",
+      "expiryDate": "2025-11-13T07:27:48.293Z",
+      "features": [
+        "Up to 50 health records",
+        "Unlimited fitness tracking",
+        "Unlimited diet plans",
+        "25 AI coaching messages/month",
+        "Full community access",
+        "Email reminders",
+        "Custom fitness goals",
+        "Standard support"
+      ]
+    },
+    "paymentInfo": {
+      "method": "qr_code",
+      "methodDisplay": "QR Code Payment",
+      "amount": 9.99,
+      "currency": "INR",
+      "processingFee": 0,
+      "totalAmount": 9.99,
+      "transactionId": "TXN_MGOT9FWK_2DH4R3Z0"
+    },
+    "status": "issued",
+    "downloadCount": 0,
+    "emailSent": false,
+    "createdAt": "2025-10-13T07:27:48.294Z",
+    "updatedAt": "2025-10-13T07:27:48.294Z"
+  },
+  {
+    "_id": "RCP-251013-7259",
+    "receiptNumber": "RCP-251013-5181",
+    "receiptToken": "MQITKLX3OLQ9",
+    "paymentId": "PAY_MGOT9HAS_C5BLF",
+    "userId": "mgesjsr6bje2ambr10f",
+    "customerInfo": {
+      "userId": "mgesjsr6bje2ambr10f",
+      "name": "las",
+      "email": "abc@gmail.com"
+    },
+    "subscriptionDetails": {
+      "planId": "standard",
+      "planName": "Standard Plan",
+      "duration": "monthly",
+      "startDate": "2025-10-13T07:27:50.090Z",
+      "expiryDate": "2025-11-13T07:27:50.090Z",
+      "features": [
+        "Up to 50 health records",
+        "Unlimited fitness tracking",
+        "Unlimited diet plans",
+        "25 AI coaching messages/month",
+        "Full community access",
+        "Email reminders",
+        "Custom fitness goals",
+        "Standard support"
+      ]
+    },
+    "paymentInfo": {
+      "method": "qr_code",
+      "methodDisplay": "QR Code Payment",
+      "amount": 9.99,
+      "currency": "INR",
+      "processingFee": 0,
+      "totalAmount": 9.99,
+      "transactionId": "TXN_MGOT9HAS_WS3FG958"
+    },
+    "status": "issued",
+    "downloadCount": 0,
+    "emailSent": false,
+    "createdAt": "2025-10-13T07:27:50.091Z",
+    "updatedAt": "2025-10-13T07:27:50.091Z"
+  }
+]

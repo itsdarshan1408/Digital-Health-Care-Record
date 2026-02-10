@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "mglunxph2gor3fuuv4d",
+    "userId": "mgesjsr6bje2ambr10f",
+    "content": "hi i am john",
+    "likes": [],
+    "comments": [],
+    "createdAt": "2025-10-11T05:43:42.437Z",
+    "updatedAt": "2025-10-11T05:43:42.437Z"
+  },
+  {
+    "_id": "mgmjor671slc02o1rns",
+    "userId": "mgesjsr6bje2ambr10f",
+    "content": "hi i am vraj",
+    "likes": [],
+    "comments": [],
+    "createdAt": "2025-10-11T17:24:11.023Z",
+    "updatedAt": "2025-10-11T17:24:11.023Z"
+  }
+]

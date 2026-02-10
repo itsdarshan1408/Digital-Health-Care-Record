@@ -1,0 +1,128 @@
+[
+  {
+    "_id": "mgev0bs1spli2vm291",
+    "userId": "mgesjsr6bje2ambr10f",
+    "message": "hi",
+    "aiResponse": "Thank you for your message! This is a demo response. For full AI features, add your OpenAI API key to the .env file.",
+    "timestamp": "2025-10-06T08:18:57.312Z",
+    "createdAt": "2025-10-06T08:18:57.313Z",
+    "updatedAt": "2025-10-06T08:18:57.313Z"
+  },
+  {
+    "_id": "mgev0wj5zyomagbfkxh",
+    "userId": "mgesjsr6bje2ambr10f",
+    "message": "give me diet of cutting fat",
+    "aiResponse": "Thank you for your message! This is a demo response. For full AI features, add your OpenAI API key to the .env file.",
+    "timestamp": "2025-10-06T08:19:24.208Z",
+    "createdAt": "2025-10-06T08:19:24.209Z",
+    "updatedAt": "2025-10-06T08:19:24.209Z"
+  },
+  {
+    "_id": "mglukvc8glysos6nau5",
+    "userId": "mgesjsr6bje2ambr10f",
+    "message": "hi how are u",
+    "aiResponse": "Your health is your greatest asset! Focus on the basics: nutritious food, regular movement, quality sleep, stress management, and regular check-ups.\n\nWhat's your main health focus right now?",
+    "timestamp": "2025-10-11T05:41:19.400Z",
+    "createdAt": "2025-10-11T05:41:19.400Z",
+    "updatedAt": "2025-10-11T05:41:19.400Z"
+  },
+  {
+    "_id": "mglukvyrpviiudzdc6m",
+    "userId": "mgesjsr6bje2ambr10f",
+    "message": "hi how are u",
+    "aiResponse": "Your health is your greatest asset! Focus on the basics: nutritious food, regular movement, quality sleep, stress management, and regular check-ups.\n\nAny specific questions about your health goals?",
+    "timestamp": "2025-10-11T05:41:20.211Z",
+    "createdAt": "2025-10-11T05:41:20.211Z",
+    "updatedAt": "2025-10-11T05:41:20.211Z"
+  },
+  {
+    "_id": "mglul4x2mmavfs381u",
+    "userId": "mgesjsr6bje2ambr10f",
+    "message": "..",
+    "aiResponse": "Your health is your greatest asset! Focus on the basics: nutritious food, regular movement, quality sleep, stress management, and regular check-ups.\n\nHow can I best support your wellness journey?",
+    "timestamp": "2025-10-11T05:41:31.814Z",
+    "createdAt": "2025-10-11T05:41:31.814Z",
+    "updatedAt": "2025-10-11T05:41:31.814Z"
+  },
+  {
+    "_id": "mglul5jj89zanwvv78t",
+    "userId": "mgesjsr6bje2ambr10f",
+    "message": "..",
+    "aiResponse": "Your health is your greatest asset! Focus on the basics: nutritious food, regular movement, quality sleep, stress management, and regular check-ups.\n\nAny specific questions about your health goals?",
+    "timestamp": "2025-10-11T05:41:32.623Z",
+    "createdAt": "2025-10-11T05:41:32.623Z",
+    "updatedAt": "2025-10-11T05:41:32.623Z"
+  },
+  {
+    "_id": "mglus3yz4s74mj9vdvt",
+    "userId": "mgesjsr6bje2ambr10f",
+    "message": "hoi",
+    "aiResponse": "Your health is your greatest asset! Focus on the basics: nutritious food, regular movement, quality sleep, stress management, and regular check-ups.\n\nHow can I best support your wellness journey?",
+    "timestamp": "2025-10-11T05:46:57.179Z",
+    "createdAt": "2025-10-11T05:46:57.179Z",
+    "updatedAt": "2025-10-11T05:46:57.179Z"
+  },
+  {
+    "_id": "mglus4kfn4h9vxmfix",
+    "userId": "mgesjsr6bje2ambr10f",
+    "message": "hoi",
+    "aiResponse": "Your health is your greatest asset! Focus on the basics: nutritious food, regular movement, quality sleep, stress management, and regular check-ups.\n\nAny specific questions about your health goals?",
+    "timestamp": "2025-10-11T05:46:57.951Z",
+    "createdAt": "2025-10-11T05:46:57.951Z",
+    "updatedAt": "2025-10-11T05:46:57.951Z"
+  },
+  {
+    "_id": "mglv5dqxnpmz3kue9r",
+    "userId": "mgesjsr6bje2ambr10f",
+    "message": ",,",
+    "aiResponse": "Your health is your greatest asset! Focus on the basics: nutritious food, regular movement, quality sleep, stress management, and regular check-ups.\n\nHow can I best support your wellness journey?",
+    "timestamp": "2025-10-11T05:57:16.377Z",
+    "createdAt": "2025-10-11T05:57:16.378Z",
+    "updatedAt": "2025-10-11T05:57:16.378Z"
+  },
+  {
+    "_id": "mglv5eklzd4j6l3p6b",
+    "userId": "mgesjsr6bje2ambr10f",
+    "message": ",,",
+    "aiResponse": "Your health is your greatest asset! Focus on the basics: nutritious food, regular movement, quality sleep, stress management, and regular check-ups.\n\nHow can I best support your wellness journey?",
+    "timestamp": "2025-10-11T05:57:17.445Z",
+    "createdAt": "2025-10-11T05:57:17.445Z",
+    "updatedAt": "2025-10-11T05:57:17.446Z"
+  },
+  {
+    "_id": "mglveg1havvadmmu1vs",
+    "userId": "mgesjsr6bje2ambr10f",
+    "message": "lo74",
+    "aiResponse": "Your health is your greatest asset! Focus on the basics: nutritious food, regular movement, quality sleep, stress management, and regular check-ups.\n\nHow can I best support your wellness journey?",
+    "timestamp": "2025-10-11T06:04:19.252Z",
+    "createdAt": "2025-10-11T06:04:19.253Z",
+    "updatedAt": "2025-10-11T06:04:19.253Z"
+  },
+  {
+    "_id": "mglvegraed542nwu41",
+    "userId": "mgesjsr6bje2ambr10f",
+    "message": "lo74",
+    "aiResponse": "Your health is your greatest asset! Focus on the basics: nutritious food, regular movement, quality sleep, stress management, and regular check-ups.\n\nAny specific questions about your health goals?",
+    "timestamp": "2025-10-11T06:04:20.182Z",
+    "createdAt": "2025-10-11T06:04:20.182Z",
+    "updatedAt": "2025-10-11T06:04:20.183Z"
+  },
+  {
+    "_id": "mgoozfptiq7tgcc9ss",
+    "userId": "mgesjsr6bje2ambr10f",
+    "message": "hello",
+    "aiResponse": "Your health is your greatest asset! Focus on the basics: nutritious food, regular movement, quality sleep, stress management, and regular check-ups.\n\nAny specific questions about your health goals?",
+    "timestamp": "2025-10-13T05:27:59.805Z",
+    "createdAt": "2025-10-13T05:27:59.825Z",
+    "updatedAt": "2025-10-13T05:27:59.825Z"
+  },
+  {
+    "_id": "mgooziff6cm2nybd9s",
+    "userId": "mgesjsr6bje2ambr10f",
+    "message": "hello",
+    "aiResponse": "Your health is your greatest asset! Focus on the basics: nutritious food, regular movement, quality sleep, stress management, and regular check-ups.\n\nWhat's your main health focus right now?",
+    "timestamp": "2025-10-13T05:28:03.338Z",
+    "createdAt": "2025-10-13T05:28:03.339Z",
+    "updatedAt": "2025-10-13T05:28:03.340Z"
+  }
+]
