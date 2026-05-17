@@ -124,5 +124,41 @@
     },
     "createdAt": "2026-01-07T19:55:10.102Z",
     "updatedAt": "2026-01-07T19:55:10.102Z"
+  },
+  {
+    "_id": "mp9m91v98ko4l05n71t",
+    "name": "Darshan",
+    "email": "darshan@healthsphere.com",
+    "passwordHash": "$2a$10$43FS3ljNdyUw6Gl7yI2Ap.xGyZebWl2yH6m4hmxN8YACUs3Hix2/i",
+    "avatar": "https://ui-avatars.com/api/?name=Darshan&background=667eea&color=fff",
+    "preferences": {
+      "theme": "light",
+      "language": "en",
+      "notifications": {
+        "email": true,
+        "push": true,
+        "reminders": true
+      }
+    },
+    "createdAt": "2026-05-17T10:12:17.973Z",
+    "updatedAt": "2026-05-17T10:12:17.973Z"
+  },
+  {
+    "_id": "mp9mkzia5dqxzom2w16",
+    "name": "dev",
+    "email": "dev12@gmail.com",
+    "passwordHash": "$2a$10$5dgN4ufPVGspxpnZ9AZvQ.rpk9CRayH5dPm2HqeijZ3hSpPqAzxWK",
+    "avatar": "https://ui-avatars.com/api/?name=dev&background=667eea&color=fff",
+    "preferences": {
+      "theme": "light",
+      "language": "en",
+      "notifications": {
+        "email": true,
+        "push": true,
+        "reminders": true
+      }
+    },
+    "createdAt": "2026-05-17T10:21:34.786Z",
+    "updatedAt": "2026-05-17T10:21:34.786Z"
   }
 ]

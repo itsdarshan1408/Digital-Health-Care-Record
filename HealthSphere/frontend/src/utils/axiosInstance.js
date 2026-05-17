@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const axiosInstance = axios.create({
-  baseURL: 'http://localhost:4001/api', // Force correct port to bypass cache
+  baseURL: import.meta.env.VITE_API_URL || '/api', // Use env var or proxy
   headers: {
     'Content-Type': 'application/json',
   },
@@ -40,7 +40,7 @@ axiosInstance.interceptors.response.use(
       url: error.config?.url,
       method: error.config?.method
     });
-    
+
     if (error.response?.status === 401) {
       // Unauthorized - clear auth and redirect to login
       localStorage.removeItem('user');

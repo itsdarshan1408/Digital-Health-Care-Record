@@ -66,5 +66,27 @@
     "amount": 0,
     "createdAt": "2026-01-07T19:55:10.119Z",
     "updatedAt": "2026-01-07T19:55:10.119Z"
+  },
+  {
+    "_id": "mp9m91vamwakcrkuwqr",
+    "userId": "mp9m91v98ko4l05n71t",
+    "plan": "free",
+    "status": "active",
+    "startDate": "2026-05-17T10:12:17.974Z",
+    "expiryDate": null,
+    "amount": 0,
+    "createdAt": "2026-05-17T10:12:17.974Z",
+    "updatedAt": "2026-05-17T10:12:17.974Z"
+  },
+  {
+    "_id": "mp9mkzicl92wj0wriph",
+    "userId": "mp9mkzia5dqxzom2w16",
+    "plan": "free",
+    "status": "active",
+    "startDate": "2026-05-17T10:21:34.788Z",
+    "expiryDate": null,
+    "amount": 0,
+    "createdAt": "2026-05-17T10:21:34.788Z",
+    "updatedAt": "2026-05-17T10:21:34.788Z"
   }
 ]
