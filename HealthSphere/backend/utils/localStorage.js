@@ -23,6 +23,10 @@ const initializeDataFiles = () => {
     'posts.json': [],
     'challenges.json': [],
     'reminders.json': [],
+    'subscriptions.json': [],
+    'payments.json': [],
+    'receipts.json': [],
+    'usageTracking.json': [],
   };
 
   Object.entries(files).forEach(([filename, defaultData]) => {

@@ -1,11 +1,11 @@
 import axios from 'axios';
 
 const axiosInstance = axios.create({
-  baseURL: import.meta.env.VITE_API_URL || '/api', // Use env var or proxy
+  baseURL: import.meta.env.VITE_API_URL || 'http://localhost:4000/api', // Use env var or local fallback
   headers: {
     'Content-Type': 'application/json',
   },
-  timeout: 10000, // 10 second timeout
+  timeout: 60000, // 60 second timeout to accommodate Render cold start spin-up
 });
 
 // Request interceptor

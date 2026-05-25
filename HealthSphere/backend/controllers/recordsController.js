@@ -21,7 +21,7 @@ export const createRecord = async (req, res) => {
 
     const files = req.files ? req.files.map(file => ({
       filename: file.originalname,
-      path: file.path,
+      path: 'uploads/' + file.filename,
       size: file.size,
       mimetype: file.mimetype,
     })) : [];

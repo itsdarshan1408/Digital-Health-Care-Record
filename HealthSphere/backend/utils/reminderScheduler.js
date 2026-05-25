@@ -38,6 +38,7 @@ export const initReminderScheduler = (io) => {
         if (endDate && now > new Date(endDate)) {
           shouldFire = false;
           reminder.isActive = false;
+          Reminder.findByIdAndUpdate(reminder._id, { isActive: false });
         }
 
         if (shouldFire) {
@@ -64,6 +65,7 @@ export const initReminderScheduler = (io) => {
           // If 'once' frequency, deactivate
           if (frequency === 'once') {
             reminder.isActive = false;
+            Reminder.findByIdAndUpdate(reminder._id, { isActive: false });
           }
 
         }
