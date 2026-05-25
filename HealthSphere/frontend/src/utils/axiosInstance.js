@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const axiosInstance = axios.create({
-  baseURL: import.meta.env.VITE_API_URL || 'http://localhost:4000/api', // Use env var or local fallback
+  baseURL: import.meta.env.VITE_API_URL || 'https://digital-health-care-record-backend.onrender.com/api', // Use env var or local fallback
   headers: {
     'Content-Type': 'application/json',
   },
